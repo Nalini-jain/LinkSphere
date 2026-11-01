@@ -27,7 +27,6 @@ Spring Boot API ---- ZXing QR PNG generation
 ## Structure
 - `backend/`: Spring Boot REST API, JPA entities, Redis cache, QR generation and analytics.
 - `frontend/`: React dashboard, URL creation, QR preview/download and click chart.
-- `git-history.sh`: optional synthetic demonstration-history generator.
 
 ## Requirements
 Java 21+, Maven 3.9+, Node.js 20+, PostgreSQL 15+, Redis 7+.
