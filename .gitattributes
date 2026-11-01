@@ -1,0 +1,5 @@
+*.java linguist-detectable
+*.js linguist-detectable
+*.jsx linguist-detectable
+*.ts linguist-detectable
+*.tsx linguist-detectable
