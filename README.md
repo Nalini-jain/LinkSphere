@@ -1,6 +1,6 @@
 # LinkSphere — Enterprise URL & Analytics Engine
 
-**Primary author and developer: Nalini Jain**
+**Primary author and developer: Nalini Jain(nalini1234jain@gmail.com)**
 
 LinkSphere is a full-stack URL shortener with custom aliases, QR-code generation, Redis cache-aside redirection, and click analytics. The frontend uses React, Tailwind CSS and Recharts; the API uses Java 21 and Spring Boot; PostgreSQL stores mappings and click events; Redis accelerates alias resolution.
 
